@@ -63,4 +63,4 @@ Concluído
 http://gitpod.io/#https://github.com/sofiawolf2/Projeto-LPF
 
 ## Contribuidores 
-https://github.com/levi0112
+* Levi: @levi0112 (https://github.com/levi0112)
