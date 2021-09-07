@@ -60,7 +60,7 @@ Concluído
 
 ## Projeto do jogo por meio de máquina virtual (gitpod)
 * Link para acessar o projeto no gitpod:
-gitpod.io/https://github.com/sofiawolf2/Projeto-LPF
+http://gitpod.io/#https://github.com/sofiawolf2/Projeto-LPF
 
 
 ## Contribuidores 
