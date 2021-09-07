@@ -67,6 +67,3 @@ http://gitpod.io/#https://github.com/sofiawolf2/Projeto-LPF
 * Sofia Queiroz: @sofiawolf2 (https://github.com/sofiawolf2)
 * Silas Nunes: @nunessilas (https://github.com/nunessilas)
 
-## 📄 Licença 
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
