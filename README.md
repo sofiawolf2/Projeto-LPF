@@ -58,9 +58,8 @@ Concluído
 * Digite ```git clone https://github.com/sofiawolf2/Projeto-LPF ```  no terminal do pc
 * No terminal do IntelliJ IDEA digite ```./gradlew run```
 
-## Projeto do jogo por meio de máquina virtual (gitpod)
+## Projeto do jogo por meio de máquina virtual
 * Link para acessar o projeto no gitpod:
 http://gitpod.io/#https://github.com/sofiawolf2/Projeto-LPF
-
 
 ## Contribuidores 
