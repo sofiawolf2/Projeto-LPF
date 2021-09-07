@@ -1,0 +1,17 @@
+{
+  "name": "tetste",
+  "version": "1.0-SNAPSHOT",
+  "private": true,
+  "workspaces": [
+    "packages\\tetste",
+    "packages_imported\\kotlin\\1.5.30",
+    "packages_imported\\kotlin-test-js-runner\\1.5.30",
+    "packages_imported\\kotlin-test\\1.5.30"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
