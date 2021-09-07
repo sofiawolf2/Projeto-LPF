@@ -53,6 +53,6 @@ Aqui estão as tecnologias usadas neste projeto.
 ## Status do projeto
 Concluído 
 
-
-
+## 🚀 Instalando o projeto do Jogo
+Digite ```git clone https://github.com/sofiawolf2/Projeto-LPF ```  no terminal 
 
