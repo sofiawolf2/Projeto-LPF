@@ -35,7 +35,7 @@ Foi implementado um tipo de delay para mostrar por etapas as joagas da IA. Após
 ![image](https://user-images.githubusercontent.com/53493002/132403248-44605f94-8eb5-4de3-8da2-a67180241e9d.png)
 
 ## Link jogável
-https://batalha-naval-projeto-lpf-lss.vercel.app/
+https://batalha-naval-projeto-lpf-lss.vercel.app/src/main/resources/
 
 ## Tecnologias 
 
