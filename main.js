@@ -41,7 +41,7 @@ if (typeof kotlin === 'undefined') {
       desativarBotoes('#botaoIA');
       atualizarJogadorPerdeu(tabDireita);
       atualizarFimDeJogo(tabEsquerda, '#botaoJ');
-      window.alert('EU ganhei de voc\xEA! 1x0 PARA \xC0S M\xC1QUINAS!' + ' Melhore seu sistema operacional para me enfrentar, humano');
+      window.alert('EU ganhei de voc\xEA! 1x0 PARA AS M\xC1QUINAS!' + ' Melhore seu sistema operacional para me enfrentar, humano');
     }}
   function Celula(id, navio, visivel, ehBorda) {
     this.id = id;
@@ -608,7 +608,7 @@ if (typeof kotlin === 'undefined') {
         var texto1 = Kotlin.isType(tmp$_5 = document.getElementById('texto1'), HTMLDivElement) ? tmp$_5 : throwCCE();
         texto1.innerHTML = 'As casas do tabuleiro da I.A. ficam invis\xEDveis at\xE9 voc\xEA escolher aquela posi\xE7\xE3o, se virar azul siginifica que voc\xEA acertou um mar, preto siginifica parte de um navio.';
         var texto2 = Kotlin.isType(tmp$_6 = document.getElementById('texto2'), HTMLDivElement) ? tmp$_6 : throwCCE();
-        texto2.innerHTML = 'Ao redor de um navio completo n\xE3o podem existir outros navios. Assim quando um navio for totalmente descoberto as casas ao redor dele ir\xE3o ser expostas como mar.';
+        texto2.innerHTML = 'Ao redor de um navio completo n\xE3o podem existir outros navios. Assim que um navio for totalmente descoberto as casas ao redor dele ir\xE3o ser expostas como mar.';
         var texto3 = Kotlin.isType(tmp$_7 = document.getElementById('texto3'), HTMLDivElement) ? tmp$_7 : throwCCE();
         texto3.innerHTML = 'Ao acertar um navio voc\xEA continua jogando, por\xE9m se acertar um mar passa sua vez. O mesmo vale para sua oponente I.A, ao acertar um mar a vez \xE9 passada para voc\xEA';
         var idBotao = 'botaoIA';

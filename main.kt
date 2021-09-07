@@ -32,7 +32,7 @@ fun fimDeJogo(tabEsquerda: Tabuleiro,tabDireita: Tabuleiro){ // se todos os navi
         desativarBotoes("#botaoIA") //tabela da direita
         atualizarJogadorPerdeu(tabDireita) //mostrar quais botoes o jogador n achou
         atualizarFimDeJogo(tabEsquerda,"#botaoJ")  //mostra o resto do tabuleiro da esquerda
-        window.alert("EU ganhei de você! 1x0 PARA ÀS MÁQUINAS!" + " Melhore seu sistema operacional para me enfrentar, humano")
+        window.alert("EU ganhei de você! 1x0 PARA AS MÁQUINAS!" + " Melhore seu sistema operacional para me enfrentar, humano")
     }
 }
 //coluna + (linha - 1)* 8 = id
@@ -599,7 +599,7 @@ fun main (){
             texto1.innerHTML = "As casas do tabuleiro da I.A. ficam invisíveis até você escolher aquela posição, se virar azul siginifica que você acertou um mar, preto siginifica parte de um navio."
 
             val texto2 = document.getElementById("texto2") as HTMLDivElement
-            texto2.innerHTML = "Ao redor de um navio completo não podem existir outros navios. Assim quando um navio for totalmente descoberto as casas ao redor dele irão ser expostas como mar."
+            texto2.innerHTML = "Ao redor de um navio completo não podem existir outros navios. Assim que um navio for totalmente descoberto as casas ao redor dele irão ser expostas como mar."
 
             val texto3 = document.getElementById("texto3") as HTMLDivElement
             texto3.innerHTML = "Ao acertar um navio você continua jogando, porém se acertar um mar passa sua vez. O mesmo vale para sua oponente I.A, ao acertar um mar a vez é passada para você"
