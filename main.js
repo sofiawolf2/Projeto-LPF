@@ -36,7 +36,7 @@ if (typeof kotlin === 'undefined') {
     if (direita) {
       desativarBotoes('#botaoIA');
       atualizarFimDeJogo(tabDireita, '#botaoIA');
-      window.alert('Voc\xEA teve sorte dessa vez mas ganharei na proxima... As m\xE1quinas sempre ser\xE3o superiores. ass: IA');
+      window.alert('Voc\xEA teve sorte dessa vez, mas ganharei na pr\xF3xima... As m\xE1quinas sempre ser\xE3o superiores. ass: IA');
     }if (esquerda) {
       desativarBotoes('#botaoIA');
       atualizarJogadorPerdeu(tabDireita);

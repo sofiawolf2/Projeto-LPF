@@ -26,7 +26,7 @@ fun fimDeJogo(tabEsquerda: Tabuleiro,tabDireita: Tabuleiro){ // se todos os navi
     if (direita){
         desativarBotoes("#botaoIA") //tabela da direita
         atualizarFimDeJogo(tabDireita,"#botaoIA") //mostra o resto do tabuleiro da direita
-        window.alert("Você teve sorte dessa vez mas ganharei na proxima... As máquinas sempre serão superiores. ass: IA")
+        window.alert("Você teve sorte dessa vez, mas ganharei na próxima... As máquinas sempre serão superiores. ass: IA")
     }
     if (esquerda){
         desativarBotoes("#botaoIA") //tabela da direita
