@@ -18,7 +18,7 @@ A IA possui os seguintes atributos: lista de células que compõem um navio parc
 No caso de haver apenas uma célula de navio parcialmente descoberto, a IA terá que escolher entre 4 possíveis células ao redor do navio para jogar, sendo estas em cima, embaixo, direita ou à esquerda da célula atual. Ao sorter uma dessas 4 possibilidades, a IA verifica se a célula pode ser clicada. No caso da escolha ser possível, a IA irá adcionar essa célula na lista que compõem o navio sendo descoberto para a próxima jogada. Caso contrário, ela irá tentar novamente até escolher uma célula clicável. 
 No caso da IA ter mais de uma célula de navio parcialmente descoberto, ela irá verificar se o navio é vertical ou horizontal. Nesse caso existem apenas duas possibilidades para serem escolhidas: em cima ou embaixo, caso seja vertical, e direita ou esquerda, caso seja horizontal. Após isso, a IA irá verificar se a cécula pode ser clicada, assim como descrito no caso anterior. 
 
-### Lógica da apresentação do tabuleiro
+### 💻 Lógica da apresentação do tabuleiro
 
 As malhas de botões terão suas cores atualizadas conforme se passam as jogadas. Cada botão receberá uma cor de acordo com o tipo de célula que ele corresponde: branco representa as células ainda não visíveis, preto representa os navios revelados, azul representa o mar e vermelho representa os navios não revelados. A cor vermelha é utlizada para que o usuário possa ver a posição dos navios do seu tabuleiro (o tabuleiro que a IA irá jogar) ou para ver quais navios o usuário faltou encontrar no final do jogo. 
 O tabuleiro da esquerda estará sempre com os botões desativados, pois a IA não clica nos botões. O tabuleiro da direita terá seus botões sendo ativados e desativados de acordo com as jogadas, ficando ativado apenas quando for a vez do usuário. 
@@ -53,6 +53,9 @@ Aqui estão as tecnologias usadas neste projeto.
 ## Status do projeto
 Concluído 
 
-## 🚀 Instalando o projeto do Jogo
-Digite ```git clone https://github.com/sofiawolf2/Projeto-LPF ```  no terminal 
+## 🚀 Instalando e compilando o projeto do Jogo
+* Baixe o IntelliJ IDEA e o Git 
+* Digite ```git clone https://github.com/sofiawolf2/Projeto-LPF ```  no terminal do pc
+* No terminal do IntelliJ IDEA digite ```./gradlew run```
 
+## Contribuidores 
