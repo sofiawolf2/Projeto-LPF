@@ -63,4 +63,7 @@ Concluído
 http://gitpod.io/#https://github.com/sofiawolf2/Projeto-LPF
 
 ## Contribuidores 
-* Levi: @levi0112 (https://github.com/levi0112)
+* Levi Vidal: @levi0112 (https://github.com/levi0112)
+* Sofia Queiroz: @sofiawolf2 (https://github.com/sofiawolf2)
+* Silas Nunes: @nunessilas (https://github.com/nunessilas)
+
