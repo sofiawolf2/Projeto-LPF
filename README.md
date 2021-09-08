@@ -60,7 +60,16 @@ Concluído
 
 ## 🖱️ Projeto do jogo por meio de máquina virtual
 * Link para acessar o projeto no gitpod:
-http://gitpod.io/#https://github.com/sofiawolf2/Projeto-LPF
+https://gitpod.io/#/github.com/sofiawolf2/Projeto-LPF
+*
+![image](https://user-images.githubusercontent.com/53493002/132428855-02248ece-8c82-4de4-8040-de42e4563489.png)
+![image](https://user-images.githubusercontent.com/53493002/132428957-71ae5f24-1536-4446-bfbe-ab6a844b0bd9.png)
+![image](https://user-images.githubusercontent.com/53493002/132429005-d16f2a6f-904d-4bab-87b0-8e9bd7b67b72.png)
+![image](https://user-images.githubusercontent.com/53493002/132429159-4229a2f6-b78f-4409-b58f-8205f37f8f65.png)
+![image](https://user-images.githubusercontent.com/53493002/132429073-04269e9c-9aa7-49e7-91fa-ddc2bddca83c.png)
+![image](https://user-images.githubusercontent.com/53493002/132429659-f951f762-3554-4f3c-87fe-627bea92d675.png)
+
+
 
 ## 🦾 Contribuidores 
 * Levi Vidal: @levi0112 (https://github.com/levi0112)
