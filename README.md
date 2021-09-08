@@ -100,9 +100,9 @@ https://gitpod.io/#/github.com/sofiawolf2/Projeto-LPF
 ![image](https://user-images.githubusercontent.com/53493002/132429659-f951f762-3554-4f3c-87fe-627bea92d675.png)
 
 ## 😎 Contribuidores 
-* Levi Vidal: @levi0112 (https://github.com/levi0112)
-* Sofia Queiroz: @sofiawolf2 (https://github.com/sofiawolf2)
-* Silas Nunes: @nunessilas (https://github.com/nunessilas)
+* Levi Vidal Feitosa: @levi0112 (https://github.com/levi0112)
+* Sofia Alencar Uchôa de Queiroz: @sofiawolf2 (https://github.com/sofiawolf2)
+* Silas Nunes Nascimento: @nunessilas (https://github.com/nunessilas)
 
 ## 📄 Licença
 
