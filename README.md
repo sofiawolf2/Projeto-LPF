@@ -53,17 +53,21 @@ Aqui estão as tecnologias usadas neste projeto.
 ## Status do projeto
 Concluído 
 
-## 🚀 Instalando e compilando o projeto do Jogo
+## 🖥️ Instalando e compilando o projeto do Jogo
 * Baixe o IntelliJ IDEA e o Git 
 * Digite ```git clone https://github.com/sofiawolf2/Projeto-LPF ```  no terminal do pc
 * No terminal do IntelliJ IDEA digite ```./gradlew run```
 
-## 🚀 Projeto do jogo por meio de máquina virtual
+## 🖱️ Projeto do jogo por meio de máquina virtual
 * Link para acessar o projeto no gitpod:
 http://gitpod.io/#https://github.com/sofiawolf2/Projeto-LPF
 
-## Contribuidores 
+## 🦾 Contribuidores 
 * Levi Vidal: @levi0112 (https://github.com/levi0112)
 * Sofia Queiroz: @sofiawolf2 (https://github.com/sofiawolf2)
 * Silas Nunes: @nunessilas (https://github.com/nunessilas)
+
+## 📄 Licença
+
+Esse projeto está sob a [LICENÇA](LICENSE).
 
